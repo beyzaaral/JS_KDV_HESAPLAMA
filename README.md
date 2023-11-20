@@ -1,2 +1,2 @@
 # JS_KDV_HESAPLAMA
-Calculating VAT using JS
+Calculating VAT using JS,HTML
